@@ -3,7 +3,7 @@
 <img src='./Conf_calendar.PNG' width='420'>
 
 ---
-## Major
+## Categories (Major)
 
 ### [*Computer science*](http://www.guide2research.com/topconf/)
 #### [- Image Processing & Computer Vision](http://www.guide2research.com/topconf/computer-vision)
