@@ -1,6 +1,6 @@
 ## Conference Calendar (ver. 2018/09)
 
-<img src='./Conf_calendar.PNG' width='420'>
+<img src='./Conf_calendar.png' width='420'>
 
 ---
 ## Categories (Major)
